@@ -3,7 +3,7 @@
 ## Description 
 I embarked on an ambitious e-commerce project aimed at enhancing the digital presence of a local business. The initiative, unfortunately, faced unforeseen financial constraints, leading to its cancellation mid-development. However, the experience was invaluable as it allowed me to practice my skills in client communication, project planning, and development (using NextJS and Prisma).
 
-It is primarily a practice project and prototype, where I was able to experiment with different design elements, user interfaces, and serverless functionalities. I have received permission from the business owners to share this information, showcasing my commitment to transparency and openness in my work.
+It is primarily a practice project and prototype, where I was able to experiment with different design elements, user interfaces, and backend functionalities. I have received permission from the business owners to share this information, showcasing my commitment to transparency and openness in my work.
 
 ## Technologies Used 
 - NextJS 
