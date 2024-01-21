@@ -1,7 +1,7 @@
 # Cyber Guardian: An Educational Android-based 3D Cybersecurity RPG
 
 ## Description 
-*Endorsed by STI College Caloocan's IT department as the Best Capstone for the ICTE Symposium & Colloqium of 2023-2024.* 
+*Nominated by STI College Caloocan's IT department as the Best Capstone for the ICTE Symposium & Colloqium of 2023-2024.* 
 
 Cyber Guardian is a supplemental learning tool that promotes cybersecurity among (ICT) students, offering an engaging experience that emphasizes the importance of cyber-hygiene in today's rapidly evolving tech era.
 
